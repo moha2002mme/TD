@@ -1,7 +1,5 @@
 package TD_Class
-
-//azertyujhgfddsftyuiojhgfdsdfg
-
+//ok
 fun main(){
    print("donner le nombre.")
     var nomber = readLine()?.toIntOrNull()
